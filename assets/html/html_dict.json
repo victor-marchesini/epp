@@ -1,0 +1,72 @@
+{
+    "DEPUTADO ESTADUAL": {
+        "2018": {
+            "absoluto": {
+                "mapas": {
+                    "13000_WALDECK CARNEIRO DA SILVA": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_13000.html",
+                    "13103_ROSANGELA DE OLIVEIRA ZEIDAN ": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_13103.html",
+                    "13567_ANDR\u00c9 LUIZ CECILIANO": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_13567.html",
+                    "13_PT": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_13.html",
+                    "50000_ELIOMAR DE SOUZA COELHO": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_50000.html",
+                    "50007_RENATA DA SILVA SOUZA": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_50007.html",
+                    "50050_DANIELLA MONTEIRO DA SILVA": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_50050.html",
+                    "50123_FLAVIO ALVES SERAFINI": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_50123.html",
+                    "50888_MONICA SANTOS FRANCISCO": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_50888.html",
+                    "50_PSOL": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_50.html",
+                    "65656_REJANE DE ALMEIDA": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_65656.html",
+                    "65_PCdoB": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto_65.html"
+                },
+                "tabela": "/covid/assets/html//tables/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_absoluto.html"
+            },
+            "relativo": {
+                "mapas": {
+                    "13000_WALDECK CARNEIRO DA SILVA": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_13000.html",
+                    "13103_ROSANGELA DE OLIVEIRA ZEIDAN ": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_13103.html",
+                    "13567_ANDR\u00c9 LUIZ CECILIANO": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_13567.html",
+                    "13_PT": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_13.html",
+                    "50000_ELIOMAR DE SOUZA COELHO": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_50000.html",
+                    "50007_RENATA DA SILVA SOUZA": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_50007.html",
+                    "50050_DANIELLA MONTEIRO DA SILVA": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_50050.html",
+                    "50123_FLAVIO ALVES SERAFINI": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_50123.html",
+                    "50888_MONICA SANTOS FRANCISCO": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_50888.html",
+                    "50_PSOL": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_50.html",
+                    "65656_REJANE DE ALMEIDA": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_65656.html",
+                    "65_PCdoB": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo_65.html"
+                },
+                "tabela": "/covid/assets/html//tables/RJ_RIO_DE_JANEIRO_DEPUTADO_ESTADUAL_2018_relativo.html"
+            }
+        }
+    },
+    "DEPUTADO FEDERAL": {
+        "2018": {
+            "absoluto": {
+                "mapas": {
+                    "1377_BENEDITA SOUZA DA SILVA SAMPAIO ": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_absoluto_1377.html",
+                    "13_PT": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_absoluto_13.html",
+                    "5005_JEAN WYLLYS DE MATOS SANTOS": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_absoluto_5005.html",
+                    "5050_MARCELO RIBEIRO FREIXO": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_absoluto_5050.html",
+                    "5077_TALIRIA PETRONE SOARES": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_absoluto_5077.html",
+                    "5080_GLAUBER DE MEDEIROS BRAGA": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_absoluto_5080.html",
+                    "50_PSOL": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_absoluto_50.html",
+                    "6565_JANDIRA FEGHALI": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_absoluto_6565.html",
+                    "65_PCdoB": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_absoluto_65.html"
+                },
+                "tabela": "/covid/assets/html//tables/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_absoluto.html"
+            },
+            "relativo": {
+                "mapas": {
+                    "1377_BENEDITA SOUZA DA SILVA SAMPAIO ": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_relativo_1377.html",
+                    "13_PT": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_relativo_13.html",
+                    "5005_JEAN WYLLYS DE MATOS SANTOS": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_relativo_5005.html",
+                    "5050_MARCELO RIBEIRO FREIXO": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_relativo_5050.html",
+                    "5077_TALIRIA PETRONE SOARES": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_relativo_5077.html",
+                    "5080_GLAUBER DE MEDEIROS BRAGA": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_relativo_5080.html",
+                    "50_PSOL": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_relativo_50.html",
+                    "6565_JANDIRA FEGHALI": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_relativo_6565.html",
+                    "65_PCdoB": "/covid/assets/html//maps/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_relativo_65.html"
+                },
+                "tabela": "/covid/assets/html//tables/RJ_RIO_DE_JANEIRO_DEPUTADO_FEDERAL_2018_relativo.html"
+            }
+        }
+    }
+}
