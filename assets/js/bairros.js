@@ -1,9 +1,115 @@
 document.addEventListener("DOMContentLoaded", function(){
 
+  // init_str = get_initial_html();
+  // form_str = get_from_html();
+
+  let div_bairros = document.createElement("div");
+  div_bairros.innerHTML = get_initial_html();
+  const votacao_bairro = document.getElementById('Tabelas');
+  votacao_bairro.append(div_bairros);
+
+
+  let div_mapas = document.createElement("div");
+  div_mapas.innerHTML = get_from_html();
+  const votacao_mapas = document.getElementById('Mapas');
+  votacao_bairro.append(div_mapas);
+
+  let div_eleitos = document.createElement("div");
+  div_eleitos.innerHTML = get_sel_eleitos();
+  const cand_eleitos = document.getElementById('Candidatos-Eleitos');
+  cand_eleitos.append(div_eleitos);
+
+  
+  
   const file_path = '/epp/assets/html/html_dict.json';
-  let obj = load_json(file_path);  
+  load_json(file_path);
+
+  const elected_file_path = '/epp/assets/html/elected_html_dict.json';
+  get_elected_json(elected_file_path);
 });
 
+function get_initial_html() {
+  const initial_html = `
+  <div class="post-content e-content" itemprop="articleBody">
+    <div class="output_area">
+      <form>
+        <div class="form-group row">
+        <p>Selecione um cargo:</p>
+          <div class="col-sm-2">
+            <select class="form-control" id="sel_cargo">
+              <option value="---">---</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group row">
+        <p>Selecione um ano:</p>
+          <div class="col-sm-2">
+            <select class="form-control" id="sel_ano">
+            </select>
+          </div>
+        </div>
+        <div class="form-group row">
+        <p>Contagem:</p>
+        <div class="col-sm-2">
+            <select class="form-control" id="sel_contagem">
+            </select>
+          </div>
+        </div>
+      </form>
+      <div id="tabelas">tabelas aqui</div>
+  `
+  return initial_html;
+}
+
+function get_from_html() {
+  const form_html = `
+  <form>
+    <div class="form-group row">
+    <p>Selecione um candidato:</p>
+    <div class="col-sm-4">
+      <select class="form-control" id="sel_cand">
+      </select>
+    </div>
+    </div>
+  </form>
+  <div id="mapa_folium"></div>
+  `
+  return form_html;
+}
+
+function get_sel_eleitos() {
+  const inner_html = `
+  <div class="post-content e-content" itemprop="articleBody">
+    <div class="output_area">
+      <form>
+        <div class="form-group row">
+        <p>Selecione um cargo:</p>
+          <div class="col-sm-2">
+            <select class="form-control" id="sel_cargo_elected">
+              <option value="---">---</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group row">
+        <p>Selecione um ano:</p>
+          <div class="col-sm-2">
+            <select class="form-control" id="sel_ano_elected">
+            </select>
+          </div>
+        </div>
+        <div class="form-group row">
+        <p>Selecione o grupo de partidos:</p>
+          <div class="col-sm-2">
+            <select class="form-control" id="sel_partidos_elected">
+            </select>
+          </div>
+        </div>
+      </form>
+      <div id="tabelas_eleitos">tabelas aqui</div>
+  `
+  return inner_html;
+}
+ 
 
 function load_json(file_path) {
   fetch(file_path)
@@ -112,34 +218,81 @@ function load_json(file_path) {
     });
 }
 
+function get_elected_json(file_path) {
+  fetch(file_path)
+  .then(response => response.text())
+  .then(data => {
+    const obj = JSON.parse(data);
+    const select_cargo = document.getElementById('sel_cargo_elected');
+    const select_year = document.getElementById('sel_ano_elected');
+    const select_partidos = document.getElementById('sel_partidos_elected');    
+
+    for (const [cargo, _years_dict] of Object.entries(obj)) {
+      cargo_option = new Option(cargo, cargo);
+      select_cargo.add(cargo_option, undefined);
+    }
+
+    select_cargo.onchange = (e) => {
+      e.preventDefault();
+      removeAll(select_year);
+      const option = new Option('---', '---');
+      select_year.add(option, undefined);
+
+      document.querySelector('#tabelas_eleitos').innerHTML = '';
+      cargo = select_cargo.value;
+      if (cargo !== '---') {
+        let years_dict = obj[cargo];
+        console.log(obj);
+        for (const [ano, _files_dict] of Object.entries(years_dict)) {
+          year_option = new Option(ano, ano);
+          select_year.add(year_option, undefined);
+        }
+      }
+    }
+
+    select_year.onchange = (e) => {
+      e.preventDefault();
+      
+      removeAll(select_partidos);
+      const option = new Option('---', '---');
+      select_partidos.add(option, undefined);
+      document.querySelector('#tabelas_eleitos').innerHTML = '';
+
+      cargo = select_cargo.value;
+      ano = select_year.value;
+      if (ano !== '---') {
+        partidos_dict = obj[cargo][ano];
+        for (const [partidos, _file] of Object.entries(partidos_dict)) {
+          partidos_option = new Option(partidos, partidos);
+          select_partidos.add(partidos_option, undefined);
+        }
+      }
+    }
+
+    select_partidos.onchange = (e) => {
+      e.preventDefault();
+      
+      cargo = select_cargo.value;
+      ano = select_year.value;
+      partidos = select_partidos.value;
+      if (partidos === '---'){
+        document.querySelector('#tabelas_eleitos').innerHTML = '';
+      }
+      else {
+        // console.log(obj[cargo][ano][contagem]);
+        input_file = obj[cargo][ano][partidos];
+        document.querySelector('#tabelas_eleitos').innerHTML = get_iframe(input_file);
+        // load_map(table_file);
+      }
+    }
+  });
+}
+
 function removeAll(selectBox) {
   while (selectBox.options.length > 0) {
       selectBox.remove(0);
   }
 }
-
-
-// function load_table(input_file) {
-//   console.log(input_file);
-//   if (input_file === "---") {
-//     document.querySelector('#mapa_folium').innerHTML = '';
-//   }
-//   else {
-//     let iframe_html = '<iframe src="' + input_file + '" allowfullscreen="" width="100%" height="400px" frameborder="0"></iframe>';
-//     document.querySelector('#mapa_folium').innerHTML = iframe_html;
-//   }
-// }
-
-// function load_map(input_file) {
-//   // console.log(input_file);
-//   if (input_file === "---") {
-//     document.querySelector('#mapa_folium').innerHTML = '';
-//   }
-//   else {
-//     let iframe_html = '<iframe src="' + input_file + '" allowfullscreen="" width="100%" height="400px" frameborder="0"></iframe>';
-//     document.querySelector('#mapa_folium').innerHTML = iframe_html;
-//   }
-// }
 
 function get_iframe(input_file) {
   // console.log(input_file);
