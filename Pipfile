@@ -8,6 +8,9 @@ pandas = "*"
 bs4 = "*"
 altair = "*"
 odfpy = "*"
+electionsbr = "*"
+matplotlib = "*"
+selenium = "*"
 
 [dev-packages]
 ipykernel = "*"

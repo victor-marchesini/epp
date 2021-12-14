@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(){
 
-  const file_path = '/covid/assets/html/html_dict.json';
+  const file_path = '/epp/assets/html/html_dict.json';
   let obj = load_json(file_path);  
 });
 
@@ -14,6 +14,11 @@ function load_json(file_path) {
       const select_year = document.getElementById('sel_ano');
       const select_contagem = document.getElementById('sel_contagem');
       const select_cand = document.getElementById('sel_cand');
+
+      for (const [cargo, _years_dict] of Object.entries(obj)) {
+        cargo_option = new Option(cargo, cargo);
+        select_cargo.add(cargo_option, undefined);
+      }
 
       select_cargo.onchange = (e) => {
         e.preventDefault();
@@ -34,6 +39,7 @@ function load_json(file_path) {
         cargo = select_cargo.value;
         if (cargo !== '---') {
           let years_dict = obj[cargo];
+          console.log(obj);
           for (const [ano, _files_dict] of Object.entries(years_dict)) {
             year_option = new Option(ano, ano);
             select_year.add(year_option, undefined);
