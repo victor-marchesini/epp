@@ -1,0 +1,22 @@
+{
+    "Deputado Estadual": {
+        "2014": {
+            "esquerda": "/epp/assets/html/tables/elected/RJ_Deputado_Estadual_2014_esquerda.html",
+            "todos": "/epp/assets/html/tables/elected/RJ_Deputado_Estadual_2014_todos.html"
+        },
+        "2018": {
+            "esquerda": "/epp/assets/html/tables/elected/RJ_Deputado_Estadual_2018_esquerda.html",
+            "todos": "/epp/assets/html/tables/elected/RJ_Deputado_Estadual_2018_todos.html"
+        }
+    },
+    "Deputado Federal": {
+        "2014": {
+            "esquerda": "/epp/assets/html/tables/elected/RJ_Deputado_Federal_2014_esquerda.html",
+            "todos": "/epp/assets/html/tables/elected/RJ_Deputado_Federal_2014_todos.html"
+        },
+        "2018": {
+            "esquerda": "/epp/assets/html/tables/elected/RJ_Deputado_Federal_2018_esquerda.html",
+            "todos": "/epp/assets/html/tables/elected/RJ_Deputado_Federal_2018_todos.html"
+        }
+    }
+}
