@@ -1,7 +1,7 @@
 ---
 keywords: fastai
 description: "dados do TSE"
-title: "Eleições RJ: Votação dos Bairros (teste)"
+title: "Votação dos Bairros e Candidatos Eleitos (teste)"
 toc: true
 branch: master
 badges: true
