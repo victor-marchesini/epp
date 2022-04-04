@@ -493,19 +493,91 @@
     },
     "GOVERNADOR": {
         "absoluta": {
-            "01_50_TARCISIO MOTTA DE CARVALHO": {
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_00_ABSOLUTA_50_TARCISIO_MOTTA_DE_CARVALHO.html"
+            "01_13_MARCUS ALEXANDRE MEDICI AGUIAR VIANA DA SILVA": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/AC_GOVERNADOR_00_ABSOLUTA_13_MARCUS_ALEXANDRE_MEDICI_AGUIAR_VIANA_DA_SILVA_2014.html",
+                    "2018": "/epp/assets/html//maps/AC_GOVERNADOR_00_ABSOLUTA_13_MARCUS_ALEXANDRE_MEDICI_AGUIAR_VIANA_DA_SILVA_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/AC_GOVERNADOR_00_ABSOLUTA_13_MARCUS_ALEXANDRE_MEDICI_AGUIAR_VIANA_DA_SILVA.html"
             },
-            "02_13_MARCIA ANGELITA TIBURI": {
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_01_ABSOLUTA_13_MARCIA_ANGELITA_TIBURI.html"
+            "01_96_VOTO NULO": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_00_ABSOLUTA_96_VOTO_NULO_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_00_ABSOLUTA_96_VOTO_NULO_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_00_ABSOLUTA_96_VOTO_NULO.html"
+            },
+            "02_50_TARCISIO MOTTA DE CARVALHO": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_01_ABSOLUTA_50_TARCISIO_MOTTA_DE_CARVALHO_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_01_ABSOLUTA_50_TARCISIO_MOTTA_DE_CARVALHO_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_01_ABSOLUTA_50_TARCISIO_MOTTA_DE_CARVALHO.html"
+            },
+            "02_96_VOTO NULO": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/AC_GOVERNADOR_01_ABSOLUTA_96_VOTO_NULO_2014.html",
+                    "2018": "/epp/assets/html//maps/AC_GOVERNADOR_01_ABSOLUTA_96_VOTO_NULO_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/AC_GOVERNADOR_01_ABSOLUTA_96_VOTO_NULO.html"
+            },
+            "03_95_VOTO BRANCO": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_02_ABSOLUTA_95_VOTO_BRANCO_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_02_ABSOLUTA_95_VOTO_BRANCO_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_02_ABSOLUTA_95_VOTO_BRANCO.html"
+            },
+            "04_13_MARCIA ANGELITA TIBURI": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_03_ABSOLUTA_13_MARCIA_ANGELITA_TIBURI_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_03_ABSOLUTA_13_MARCIA_ANGELITA_TIBURI_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_03_ABSOLUTA_13_MARCIA_ANGELITA_TIBURI.html"
             }
         },
         "relativa": {
-            "01_50_TARCISIO MOTTA DE CARVALHO": {
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_00_RELATIVA_50_TARCISIO_MOTTA_DE_CARVALHO.html"
+            "01_13_MARCUS ALEXANDRE MEDICI AGUIAR VIANA DA SILVA": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/AC_GOVERNADOR_00_RELATIVA_13_MARCUS_ALEXANDRE_MEDICI_AGUIAR_VIANA_DA_SILVA_2014.html",
+                    "2018": "/epp/assets/html//maps/AC_GOVERNADOR_00_RELATIVA_13_MARCUS_ALEXANDRE_MEDICI_AGUIAR_VIANA_DA_SILVA_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/AC_GOVERNADOR_00_RELATIVA_13_MARCUS_ALEXANDRE_MEDICI_AGUIAR_VIANA_DA_SILVA.html"
             },
-            "02_13_MARCIA ANGELITA TIBURI": {
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_01_RELATIVA_13_MARCIA_ANGELITA_TIBURI.html"
+            "01_96_VOTO NULO": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_00_RELATIVA_96_VOTO_NULO_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_00_RELATIVA_96_VOTO_NULO_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_00_RELATIVA_96_VOTO_NULO.html"
+            },
+            "02_50_TARCISIO MOTTA DE CARVALHO": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_01_RELATIVA_50_TARCISIO_MOTTA_DE_CARVALHO_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_01_RELATIVA_50_TARCISIO_MOTTA_DE_CARVALHO_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_01_RELATIVA_50_TARCISIO_MOTTA_DE_CARVALHO.html"
+            },
+            "02_96_VOTO NULO": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/AC_GOVERNADOR_01_RELATIVA_96_VOTO_NULO_2014.html",
+                    "2018": "/epp/assets/html//maps/AC_GOVERNADOR_01_RELATIVA_96_VOTO_NULO_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/AC_GOVERNADOR_01_RELATIVA_96_VOTO_NULO.html"
+            },
+            "03_95_VOTO BRANCO": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_02_RELATIVA_95_VOTO_BRANCO_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_02_RELATIVA_95_VOTO_BRANCO_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_02_RELATIVA_95_VOTO_BRANCO.html"
+            },
+            "04_13_MARCIA ANGELITA TIBURI": {
+                "mapas": {
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_03_RELATIVA_13_MARCIA_ANGELITA_TIBURI_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_03_RELATIVA_13_MARCIA_ANGELITA_TIBURI_2018.html"
+                },
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_03_RELATIVA_13_MARCIA_ANGELITA_TIBURI.html"
             }
         }
     },
