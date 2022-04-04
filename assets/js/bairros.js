@@ -42,16 +42,16 @@ function get_initial_html() {
           </div>
         </div>
         <div class="form-group row">
-        <p>Selecione um ano:</p>
+        <p>Selecione a forma de contagem:</p>
           <div class="col-sm-2">
-            <select class="form-control" id="sel_ano">
+            <select class="form-control" id="sel_contagem">
             </select>
           </div>
         </div>
         <div class="form-group row">
-        <p>Contagem:</p>
+        <p>Candidata(o):</p>
         <div class="col-sm-2">
-            <select class="form-control" id="sel_contagem">
+            <select class="form-control" id="sel_candidata">
             </select>
           </div>
         </div>
@@ -117,8 +117,8 @@ function load_json(file_path) {
   .then(data => {
       const obj = JSON.parse(data);
       const select_cargo = document.getElementById('sel_cargo');
-      const select_year = document.getElementById('sel_ano');
-      const select_contagem = document.getElementById('sel_contagem');
+      const select_year = document.getElementById('sel_contagem');
+      const select_contagem = document.getElementById('sel_candidata');
       const select_cand = document.getElementById('sel_cand');
 
       for (const [cargo, _years_dict] of Object.entries(obj)) {
