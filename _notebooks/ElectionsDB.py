@@ -857,7 +857,12 @@ class ElectionsDB:
             }
 
         col0 = {
-            'selector': '.col0',
+            'selector': '.level0',
+            'props': f'widht:200px; font-size:{font_size-2}px;'       
+            }
+        
+        col1 = {
+            'selector': '.level1',
             'props': f'widht:200px; font-size:{font_size-2}px;'       
             }
         
@@ -865,7 +870,7 @@ class ElectionsDB:
             'selector': 'tr:hover',
             'props': f'background-color:{hover_color}'
             }
-        styles += [headers,col0,tr]
+        styles += [headers,col0,col1,tr]
         format_dict = {}
         for col,tipo in df_bairros.dtypes.items():
             if tipo == 'float64':
