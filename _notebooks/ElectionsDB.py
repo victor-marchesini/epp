@@ -13,6 +13,10 @@ import pymysql
 from sqlalchemy import create_engine
 from unidecode import unidecode
 
+import folium
+import unicodedata
+import branca
+
 class ElectionsDB:
     def __init__(self):
         self._data_dir = '../data'
@@ -906,6 +910,37 @@ class ElectionsDB:
         new_col = f'NR_PARTIDO_{ano}'
         ref_party = key_series.apply(lambda x: party_dict.get(x,-1)).astype(str)
         df['NR_NM_VOTAVEL'] = ref_party + '_' + df['NM_VOTAVEL']
+
+    def get_map(self,bairros_geo,df_map,selected_col,max_scale=0):
+        df = df_map.copy()
+        if max_scale:
+            new_row = len(df.index)
+            df.loc[new_row] = df.max().iloc[2:].max()
+            df.loc[new_row,'NM_BAIRRO'] = 'n.a'
+        
+        df['bairro'] = df['NM_BAIRRO'].str.lower().apply(lambda x: ''.join(ch for ch in unicodedata.normalize('NFKD', x) if not unicodedata.combining(ch)))
+        df = df[['bairro', selected_col]]
+    #     myscale = (df[column].quantile((0,0.8,0.85,0.90,0.95,1))).tolist()
+    #     colorscale = branca.colormap.linear.YlOrRd_09.scale(0, 3e3)
+        m = folium.Map(location=[-22.90,-43.4], zoom_start=11,tiles= 'Stamen Terrain')
+        folium.Choropleth(
+            geo_data=bairros_geo,
+            name='choropleth',
+            data=df,
+            columns=['bairro', selected_col],
+            nan_fill_color = 'gray',
+            nan_fill_opacity = 0.8,
+    #         fill_color='YlGnBu',
+    #         threshold_scale=myscale,
+            key_on='properties.NOME',
+            fill_color='YlOrRd',
+    #         fill_color='#black' if None else colorscale,
+            fill_opacity=0.8,
+            line_opacity=0.2,
+    #         bins = myscale,
+            legend_name=''
+        ).add_to(m)
+        return m
 
 # Singleton
 # db = ElectionsDB()
