@@ -138,9 +138,7 @@ update_maps=True
 #hide
  
 uf = 'RJ'
-n_cands = 50
-# uf = 'AC'
-# n_cands = 1
+n_cands = 5
 
 partidos_esquerda = [13,40,50,65]
 partidos_direita = [15,17,25,45]
@@ -150,7 +148,10 @@ nr_partidos=partidos_esquerda + nulo
 
 anos = [2014,2016,2018,2020]
 cargos= ["DEPUTADO ESTADUAL","DEPUTADO FEDERAL","GOVERNADOR","VEREADOR","PREFEITO"]
-cargos= ["GOVERNADOR"]
+
+# uf = 'AC'
+# n_cands = 1
+# cargos= ["GOVERNADOR","VEREADOR"]
 
 
 nr_partidos_str = [str(x) for x in nr_partidos]
@@ -226,7 +227,7 @@ for cargo in cargos:
             if ordem_cand not in html_dict[cargo][rel_sufix].keys():
                 html_dict[cargo][rel_sufix][ordem_cand] = {}
 
-            table_name = f'{uf}_{cargo}_{i:02d}_{rel_sufix}_{cand}'.replace(' ','_').upper()
+            table_name = f'{uf}_{cargo}_{ordem_cand}_{rel_sufix}_{cand}'.replace(' ','_').upper()
             table_path = f'{tables_folder}/{table_name}.html'
             html_dict[cargo][rel_sufix][ordem_cand]['tabela'] = f'{abs_folder}/tables/{table_name}.html'
             df = df_all[index_cols + [cand]].reset_index()
@@ -234,7 +235,18 @@ for cargo in cargos:
             df = df.sort_values(df.columns[-1],ascending=False)
             mask = df.sum(axis=1)>0
             df = df[mask]
-            df_style = self.get_df_style(df,relative)
+
+            if not relative:
+                total = [int(x) for x in df.sum(axis=0)]
+                tuples = list(zip( df.columns, total ))
+                index = pd.MultiIndex.from_tuples(tuples, names=["ANO_ELEICAO", "TOTAL"])
+                
+                df_tabela = df.copy()
+                df_tabela.columns = pd.MultiIndex.from_tuples(tuples, names=["ANO_ELEICAO", "TOTAL"])
+            else:
+                df_tabela = df
+            
+            df_style = self.get_df_style(df_tabela,relative)
             df_style.to_html(table_path)
 
             if 'mapas' not in html_dict[cargo][rel_sufix][ordem_cand].keys():
@@ -245,7 +257,7 @@ for cargo in cargos:
                 file_path = f'{maps_folder}/{map_name}.html'
                 if update_maps:
                     df_map = df.reset_index()
-                    # m = self.get_map(bairros_geo,df_map,ano_mapa,0.0)
+                    # df_map = df_map
                     m = self.get_map(bairros_geo,df_map,ano_mapa,legend=ordem_cand,max_scale=0.0)
                     m.save(file_path)
                     shrink_html(file_path,base_path)
