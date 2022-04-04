@@ -1,7 +1,7 @@
 ---
 keywords: fastai
 description: "dados do TSE"
-title: "Eleições RJ: Votação dos Bairros"
+title: "Eleições RJ: Votação dos Bairros (teste)"
 toc: true
 branch: master
 badges: true
@@ -17,4 +17,4 @@ layout: notebook
 # Votação por Bairro
 ## Tabelas
 ## Mapas
-# Candidatos Eleitos
+<script src="{{ "/assets/js/bairros.js" | relative_url }}"></script>
