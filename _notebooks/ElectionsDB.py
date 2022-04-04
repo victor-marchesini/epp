@@ -788,13 +788,13 @@ class ElectionsDB:
         #TODO: avaliar outro local para inserir essa correção
         nr_partidos = [13,40,50,65]
         # for cargo in cargos:
-        if True:
-            for nr_partido in nr_partidos:
-                # mask = df_group['DS_CARGO']== cargo
-                # mask = mask & (df_group['NR_VOTAVEL'] == nr_partido)
-                mask = df_group['NR_VOTAVEL'] == nr_partido
-                x = df_group.loc[mask,'NM_VOTAVEL'].iat[-1]
-                df_group.loc[mask,'NM_VOTAVEL'] = x
+        # if True:
+        #     for nr_partido in nr_partidos:
+        #         # mask = df_group['DS_CARGO']== cargo
+        #         # mask = mask & (df_group['NR_VOTAVEL'] == nr_partido)
+        #         mask = df_group['NR_VOTAVEL'] == nr_partido
+        #         x = df_group.loc[mask,'NM_VOTAVEL'].iat[-1]
+        #         df_group.loc[mask,'NM_VOTAVEL'] = x
         
         self._group_results[uf] = df_group
     
