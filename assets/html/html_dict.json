@@ -1,73 +1,109 @@
 {
-    "Deputado Estadual": {
-        "absoluto": {
+    "DEPUTADO ESTADUAL": {
+        "absoluta": {
             "13_ANDRE LUIZ CECILIANO": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_absoluto_13_ANDRE_LUIZ_CECILIANO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_ABSOLUTA_13_ANDRE_LUIZ_CECILIANO.html"
             },
             "13_Partido dos Trabalhadores": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_absoluto_13_Partido_dos_Trabalhadores.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_ABSOLUTA_13_PARTIDO_DOS_TRABALHADORES.html"
             },
             "13_ROSANGELA DE OLIVEIRA ZEIDAN": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_absoluto_13_ROSANGELA_DE_OLIVEIRA_ZEIDAN.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_ABSOLUTA_13_ROSANGELA_DE_OLIVEIRA_ZEIDAN.html"
             },
             "50_FLAVIO ALVES SERAFINI": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_absoluto_50_FLAVIO_ALVES_SERAFINI.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_ABSOLUTA_50_FLAVIO_ALVES_SERAFINI.html"
             },
             "50_RENATA DA SILVA SOUZA": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_absoluto_50_RENATA_DA_SILVA_SOUZA.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_ABSOLUTA_50_RENATA_DA_SILVA_SOUZA.html"
             }
         },
-        "relativo": {
+        "relativa": {
             "13_ANDRE LUIZ CECILIANO": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_relativo_13_ANDRE_LUIZ_CECILIANO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_RELATIVA_13_ANDRE_LUIZ_CECILIANO.html"
             },
             "13_Partido dos Trabalhadores": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_relativo_13_Partido_dos_Trabalhadores.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_RELATIVA_13_PARTIDO_DOS_TRABALHADORES.html"
             },
             "13_ROSANGELA DE OLIVEIRA ZEIDAN": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_relativo_13_ROSANGELA_DE_OLIVEIRA_ZEIDAN.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_RELATIVA_13_ROSANGELA_DE_OLIVEIRA_ZEIDAN.html"
             },
             "50_FLAVIO ALVES SERAFINI": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_relativo_50_FLAVIO_ALVES_SERAFINI.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_RELATIVA_50_FLAVIO_ALVES_SERAFINI.html"
             },
             "50_RENATA DA SILVA SOUZA": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_relativo_50_RENATA_DA_SILVA_SOUZA.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_RELATIVA_50_RENATA_DA_SILVA_SOUZA.html"
             }
         }
     },
-    "Deputado Federal": {
-        "absoluto": {
+    "DEPUTADO FEDERAL": {
+        "absoluta": {
             "13_WASHINGTON LUIZ CARDOSO SIQUEIRA": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_absoluto_13_WASHINGTON_LUIZ_CARDOSO_SIQUEIRA.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_ABSOLUTA_13_WASHINGTON_LUIZ_CARDOSO_SIQUEIRA.html"
             },
             "40_ALESSANDRO LUCCIOLA MOLON": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_absoluto_40_ALESSANDRO_LUCCIOLA_MOLON.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_ABSOLUTA_40_ALESSANDRO_LUCCIOLA_MOLON.html"
             },
             "50_MARCELO RIBEIRO FREIXO": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_absoluto_50_MARCELO_RIBEIRO_FREIXO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_ABSOLUTA_50_MARCELO_RIBEIRO_FREIXO.html"
             },
             "50_TALIRIA PETRONE SOARES": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_absoluto_50_TALIRIA_PETRONE_SOARES.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_ABSOLUTA_50_TALIRIA_PETRONE_SOARES.html"
             },
             "65_JANDIRA FEGHALI": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_absoluto_65_JANDIRA_FEGHALI.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_ABSOLUTA_65_JANDIRA_FEGHALI.html"
             }
         },
-        "relativo": {
+        "relativa": {
             "13_WASHINGTON LUIZ CARDOSO SIQUEIRA": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_relativo_13_WASHINGTON_LUIZ_CARDOSO_SIQUEIRA.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_RELATIVA_13_WASHINGTON_LUIZ_CARDOSO_SIQUEIRA.html"
             },
             "40_ALESSANDRO LUCCIOLA MOLON": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_relativo_40_ALESSANDRO_LUCCIOLA_MOLON.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_RELATIVA_40_ALESSANDRO_LUCCIOLA_MOLON.html"
             },
             "50_MARCELO RIBEIRO FREIXO": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_relativo_50_MARCELO_RIBEIRO_FREIXO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_RELATIVA_50_MARCELO_RIBEIRO_FREIXO.html"
             },
             "50_TALIRIA PETRONE SOARES": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_relativo_50_TALIRIA_PETRONE_SOARES.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_RELATIVA_50_TALIRIA_PETRONE_SOARES.html"
             },
             "65_JANDIRA FEGHALI": {
-                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_relativo_65_JANDIRA_FEGHALI.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_RELATIVA_65_JANDIRA_FEGHALI.html"
+            }
+        }
+    },
+    "VEREADOR": {
+        "absoluta": {
+            "13_LUIZ LINDBERGH FARIAS FILHO": {
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_ABSOLUTA_13_LUIZ_LINDBERGH_FARIAS_FILHO.html"
+            },
+            "13_Partido dos Trabalhadores": {
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_ABSOLUTA_13_PARTIDO_DOS_TRABALHADORES.html"
+            },
+            "13_TAINA REIS DE PAULA KAPAZ": {
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_ABSOLUTA_13_TAINA_REIS_DE_PAULA_KAPAZ.html"
+            },
+            "50_FRANCISCO RODRIGUES DE ALENCAR FILHO": {
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_ABSOLUTA_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO.html"
+            },
+            "50_TARCISIO MOTTA DE CARVALHO": {
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_ABSOLUTA_50_TARCISIO_MOTTA_DE_CARVALHO.html"
+            }
+        },
+        "relativa": {
+            "13_LUIZ LINDBERGH FARIAS FILHO": {
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_RELATIVA_13_LUIZ_LINDBERGH_FARIAS_FILHO.html"
+            },
+            "13_Partido dos Trabalhadores": {
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_RELATIVA_13_PARTIDO_DOS_TRABALHADORES.html"
+            },
+            "13_TAINA REIS DE PAULA KAPAZ": {
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_RELATIVA_13_TAINA_REIS_DE_PAULA_KAPAZ.html"
+            },
+            "50_FRANCISCO RODRIGUES DE ALENCAR FILHO": {
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_RELATIVA_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO.html"
+            },
+            "50_TARCISIO MOTTA DE CARVALHO": {
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_RELATIVA_50_TARCISIO_MOTTA_DE_CARVALHO.html"
             }
         }
     }
