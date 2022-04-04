@@ -17,4 +17,3 @@ layout: notebook
 # Votação por Bairro
 ## Tabelas
 ## Mapas
-<script src="{{ "/assets/js/bairros.js" | relative_url }}"></script>
