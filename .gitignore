@@ -15,7 +15,7 @@ __pycache__
 _notebooks/data/*
 _notebooks/maps/*
 _notebooks/results/*
-_notebooks/db_connection/*
+*/db_connection/*
 _notebooks/db/*
 data/*
 _posts
