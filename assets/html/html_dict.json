@@ -1,71 +1,73 @@
 {
     "Deputado Estadual": {
-        "2018": {
-            "absoluto": {
-                "mapas": {
-                    "13000_WALDECK CARNEIRO DA SILVA": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_13000.html",
-                    "13103_ROSANGELA DE OLIVEIRA ZEIDAN ": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_13103.html",
-                    "13567_ANDR\u00c9 LUIZ CECILIANO": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_13567.html",
-                    "13_PT": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_13.html",
-                    "50000_ELIOMAR DE SOUZA COELHO": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_50000.html",
-                    "50007_RENATA DA SILVA SOUZA": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_50007.html",
-                    "50050_DANIELLA MONTEIRO DA SILVA": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_50050.html",
-                    "50123_FLAVIO ALVES SERAFINI": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_50123.html",
-                    "50888_MONICA SANTOS FRANCISCO": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_50888.html",
-                    "50_PSOL": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_50.html",
-                    "65656_REJANE DE ALMEIDA": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_65656.html",
-                    "65_PCdoB": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto_65.html"
-                },
-                "tabela": "/epp/assets/html//tables/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_absoluto.html"
+        "absoluto": {
+            "13_ANDRE LUIZ CECILIANO": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_absoluto_13_ANDRE_LUIZ_CECILIANO.html"
             },
-            "relativo": {
-                "mapas": {
-                    "13000_WALDECK CARNEIRO DA SILVA": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_13000.html",
-                    "13103_ROSANGELA DE OLIVEIRA ZEIDAN ": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_13103.html",
-                    "13567_ANDR\u00c9 LUIZ CECILIANO": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_13567.html",
-                    "13_PT": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_13.html",
-                    "50000_ELIOMAR DE SOUZA COELHO": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_50000.html",
-                    "50007_RENATA DA SILVA SOUZA": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_50007.html",
-                    "50050_DANIELLA MONTEIRO DA SILVA": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_50050.html",
-                    "50123_FLAVIO ALVES SERAFINI": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_50123.html",
-                    "50888_MONICA SANTOS FRANCISCO": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_50888.html",
-                    "50_PSOL": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_50.html",
-                    "65656_REJANE DE ALMEIDA": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_65656.html",
-                    "65_PCdoB": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo_65.html"
-                },
-                "tabela": "/epp/assets/html//tables/RJ_RIO_DE_JANEIRO_Deputado_Estadual_2018_relativo.html"
+            "13_Partido dos Trabalhadores": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_absoluto_13_Partido_dos_Trabalhadores.html"
+            },
+            "13_ROSANGELA DE OLIVEIRA ZEIDAN": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_absoluto_13_ROSANGELA_DE_OLIVEIRA_ZEIDAN.html"
+            },
+            "50_FLAVIO ALVES SERAFINI": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_absoluto_50_FLAVIO_ALVES_SERAFINI.html"
+            },
+            "50_RENATA DA SILVA SOUZA": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_absoluto_50_RENATA_DA_SILVA_SOUZA.html"
+            }
+        },
+        "relativo": {
+            "13_ANDRE LUIZ CECILIANO": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_relativo_13_ANDRE_LUIZ_CECILIANO.html"
+            },
+            "13_Partido dos Trabalhadores": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_relativo_13_Partido_dos_Trabalhadores.html"
+            },
+            "13_ROSANGELA DE OLIVEIRA ZEIDAN": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_relativo_13_ROSANGELA_DE_OLIVEIRA_ZEIDAN.html"
+            },
+            "50_FLAVIO ALVES SERAFINI": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_relativo_50_FLAVIO_ALVES_SERAFINI.html"
+            },
+            "50_RENATA DA SILVA SOUZA": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Estadual_relativo_50_RENATA_DA_SILVA_SOUZA.html"
             }
         }
     },
     "Deputado Federal": {
-        "2018": {
-            "absoluto": {
-                "mapas": {
-                    "1377_BENEDITA SOUZA DA SILVA SAMPAIO ": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_absoluto_1377.html",
-                    "13_PT": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_absoluto_13.html",
-                    "5005_JEAN WYLLYS DE MATOS SANTOS": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_absoluto_5005.html",
-                    "5050_MARCELO RIBEIRO FREIXO": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_absoluto_5050.html",
-                    "5077_TALIRIA PETRONE SOARES": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_absoluto_5077.html",
-                    "5080_GLAUBER DE MEDEIROS BRAGA": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_absoluto_5080.html",
-                    "50_PSOL": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_absoluto_50.html",
-                    "6565_JANDIRA FEGHALI": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_absoluto_6565.html",
-                    "65_PCdoB": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_absoluto_65.html"
-                },
-                "tabela": "/epp/assets/html//tables/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_absoluto.html"
+        "absoluto": {
+            "13_WASHINGTON LUIZ CARDOSO SIQUEIRA": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_absoluto_13_WASHINGTON_LUIZ_CARDOSO_SIQUEIRA.html"
             },
-            "relativo": {
-                "mapas": {
-                    "1377_BENEDITA SOUZA DA SILVA SAMPAIO ": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_relativo_1377.html",
-                    "13_PT": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_relativo_13.html",
-                    "5005_JEAN WYLLYS DE MATOS SANTOS": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_relativo_5005.html",
-                    "5050_MARCELO RIBEIRO FREIXO": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_relativo_5050.html",
-                    "5077_TALIRIA PETRONE SOARES": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_relativo_5077.html",
-                    "5080_GLAUBER DE MEDEIROS BRAGA": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_relativo_5080.html",
-                    "50_PSOL": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_relativo_50.html",
-                    "6565_JANDIRA FEGHALI": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_relativo_6565.html",
-                    "65_PCdoB": "/epp/assets/html//maps/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_relativo_65.html"
-                },
-                "tabela": "/epp/assets/html//tables/RJ_RIO_DE_JANEIRO_Deputado_Federal_2018_relativo.html"
+            "40_ALESSANDRO LUCCIOLA MOLON": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_absoluto_40_ALESSANDRO_LUCCIOLA_MOLON.html"
+            },
+            "50_MARCELO RIBEIRO FREIXO": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_absoluto_50_MARCELO_RIBEIRO_FREIXO.html"
+            },
+            "50_TALIRIA PETRONE SOARES": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_absoluto_50_TALIRIA_PETRONE_SOARES.html"
+            },
+            "65_JANDIRA FEGHALI": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_absoluto_65_JANDIRA_FEGHALI.html"
+            }
+        },
+        "relativo": {
+            "13_WASHINGTON LUIZ CARDOSO SIQUEIRA": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_relativo_13_WASHINGTON_LUIZ_CARDOSO_SIQUEIRA.html"
+            },
+            "40_ALESSANDRO LUCCIOLA MOLON": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_relativo_40_ALESSANDRO_LUCCIOLA_MOLON.html"
+            },
+            "50_MARCELO RIBEIRO FREIXO": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_relativo_50_MARCELO_RIBEIRO_FREIXO.html"
+            },
+            "50_TALIRIA PETRONE SOARES": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_relativo_50_TALIRIA_PETRONE_SOARES.html"
+            },
+            "65_JANDIRA FEGHALI": {
+                "tabela": "/epp/assets/html//tables/RJ_Deputado_Federal_relativo_65_JANDIRA_FEGHALI.html"
             }
         }
     }

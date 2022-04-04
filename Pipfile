@@ -11,6 +11,8 @@ odfpy = "*"
 electionsbr = "*"
 matplotlib = "*"
 selenium = "*"
+unidecode = "*"
+folium = "*"
 
 [dev-packages]
 ipykernel = "*"
