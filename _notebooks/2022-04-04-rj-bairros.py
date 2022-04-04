@@ -256,8 +256,12 @@ for cargo in cargos:
                 html_dict[cargo][rel_sufix][ordem_cand]['mapas'][str(ano_mapa)] = f'{abs_folder}/maps/{map_name}.html'
                 file_path = f'{maps_folder}/{map_name}.html'
                 if update_maps:
+                    # TODO: adicionar mapas para outros municipios
+                    municipio = 'RIO DE JANEIRO'
+                    
                     df_map = df.reset_index()
-                    # df_map = df_map
+                    df_map = df_map.loc[df_map['NM_MUNICIPIO'] == municipio]
+
                     m = self.get_map(bairros_geo,df_map,ano_mapa,legend=ordem_cand,max_scale=0.0)
                     m.save(file_path)
                     shrink_html(file_path,base_path)
