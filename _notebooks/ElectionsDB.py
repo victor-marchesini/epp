@@ -844,8 +844,8 @@ class ElectionsDB:
         if not relative:
             df_bairros = df_bairros.astype(int)
 
-        font_size = 12
-        line_height = 12
+        font_size = 14
+        line_height = 14
         
         hover_color = '#00BBBB'
         hover_color = '#EEEE55'
@@ -876,7 +876,7 @@ class ElectionsDB:
                     'padding': '0px',
                     'font-size':f'{font_size}px',
                     'line-height':f'{line_height}px',
-                    'width': '100px',
+                    'width': '200px',
                     "text-align": "center"})
 
         df_style = df_style.background_gradient() #.bar(color='#d65f5f')
@@ -911,7 +911,7 @@ class ElectionsDB:
         ref_party = key_series.apply(lambda x: party_dict.get(x,-1)).astype(str)
         df['NR_NM_VOTAVEL'] = ref_party + '_' + df['NM_VOTAVEL']
 
-    def get_map(self,bairros_geo,df_map,selected_col,max_scale=0):
+    def get_map(self,bairros_geo,df_map,selected_col,legend,max_scale=0):
         df = df_map.copy()
         if max_scale:
             new_row = len(df.index)
@@ -938,7 +938,7 @@ class ElectionsDB:
             fill_opacity=0.8,
             line_opacity=0.2,
     #         bins = myscale,
-            legend_name=''
+            legend_name=legend
         ).add_to(m)
         return m
 
