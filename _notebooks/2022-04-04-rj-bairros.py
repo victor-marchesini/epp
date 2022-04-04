@@ -138,7 +138,7 @@ update_maps=True
 #hide
  
 uf = 'RJ'
-n_cands = 5
+n_cands = 45
 
 partidos_esquerda = [13,40,50,65]
 partidos_direita = [15,17,25,45]
