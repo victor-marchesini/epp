@@ -18,7 +18,7 @@ _notebooks/results/*
 */db_connection/*
 _notebooks/db/*
 data/*
-_posts
+# _posts
 settings.ini
 .venv
 

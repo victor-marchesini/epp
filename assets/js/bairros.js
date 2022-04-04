@@ -3,22 +3,29 @@ document.addEventListener("DOMContentLoaded", function(){
   // init_str = get_initial_html();
   // form_str = get_from_html();
 
-  let div_bairros = document.createElement("div");
-  div_bairros.innerHTML = get_initial_html();
+  
   const votacao_bairro = document.getElementById('Tabelas');
-  votacao_bairro.append(div_bairros);
+  if (votacao_bairro) {
+    let div_bairros = document.createElement("div");
+    div_bairros.innerHTML = get_initial_html();
+    votacao_bairro.append(div_bairros);
+  }
 
 
-  let div_mapas = document.createElement("div");
-  div_mapas.innerHTML = get_from_html();
   const votacao_mapas = document.getElementById('Mapas');
-  votacao_bairro.append(div_mapas);
+  if (votacao_mapas) {
+    let div_mapas = document.createElement("div");
+    div_mapas.innerHTML = get_from_html();
+    votacao_mapas.append(div_mapas);
+  }
 
-  let div_eleitos = document.createElement("div");
-  div_eleitos.innerHTML = get_sel_eleitos();
   const cand_eleitos = document.getElementById('Candidatos-Eleitos');
-  cand_eleitos.append(div_eleitos);
-
+  if (cand_eleitos) {
+    let div_eleitos = document.createElement("div");
+    div_eleitos.innerHTML = get_sel_eleitos();
+    cand_eleitos.append(div_eleitos);
+  }
+  
   
   
   const file_path = '/epp/assets/html/html_dict.json';
@@ -65,7 +72,7 @@ function get_from_html() {
   const form_html = `
   <form>
     <div class="form-group row">
-    <p>Selecione um candidato:</p>
+    <p>Selecione o ano, ou a variação para o mapa:</p>
     <div class="col-sm-4">
       <select class="form-control" id="sel_cand">
       </select>
