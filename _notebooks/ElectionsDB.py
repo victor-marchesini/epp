@@ -141,8 +141,9 @@ class ElectionsDB:
         else:
             df = self.get_election_data(uf,ano,option,agg)
         
-        #TODO: adicionar esse tratamento antes de salvar tabelas
+        #TODO: mover tratamentos antes de salvar tabelas
         df['NM_VOTAVEL'] = df['NM_VOTAVEL'].apply(unidecode).str.strip()
+        df['DS_CARGO'] = df['DS_CARGO'].str.upper().str.strip()
         return df
 
     def get_election_data(self,uf:str,ano:int,option:str,agg:str):
