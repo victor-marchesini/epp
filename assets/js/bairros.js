@@ -300,7 +300,7 @@ function get_iframe(input_file) {
      return '';
   }
   else {
-    let iframe_html = '<iframe src="' + input_file + '" allowfullscreen="" width="100%" height="400px" frameborder="0"></iframe>';
+    let iframe_html = '<iframe src="' + input_file + '" allowfullscreen="" width="60%" height="800px" frameborder="0"></iframe>';
     return iframe_html;
   }
 }
