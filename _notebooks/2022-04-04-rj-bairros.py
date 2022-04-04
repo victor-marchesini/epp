@@ -227,7 +227,7 @@ for cargo in cargos:
             if ordem_cand not in html_dict[cargo][rel_sufix].keys():
                 html_dict[cargo][rel_sufix][ordem_cand] = {}
 
-            table_name = f'{uf}_{cargo}_{ordem_cand}_{rel_sufix}_{cand}'.replace(' ','_').upper()
+            table_name = f'{uf}_{cargo}_{ordem_cand}_{rel_sufix}'.replace(' ','_').upper()
             table_path = f'{tables_folder}/{table_name}.html'
             html_dict[cargo][rel_sufix][ordem_cand]['tabela'] = f'{abs_folder}/tables/{table_name}.html'
             df = df_all[index_cols + [cand]].reset_index()
@@ -235,6 +235,9 @@ for cargo in cargos:
             df = df.sort_values(df.columns[-1],ascending=False)
             mask = df.sum(axis=1)>0
             df = df[mask]
+
+            cols = df.columns
+            df['Variacao'] = df[cols[-1]] - df[cols[-2]]
 
             if not relative:
                 total = [int(x) for x in df.sum(axis=0)]

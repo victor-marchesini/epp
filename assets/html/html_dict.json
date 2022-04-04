@@ -3,75 +3,85 @@
         "absoluta": {
             "01_96_VOTO NULO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_ABSOLUTA.html"
             },
             "02_95_VOTO BRANCO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_ABSOLUTA.html"
             },
             "03_13_Partido dos Trabalhadores": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_13_PARTIDO_DOS_TRABALHADORES_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_13_PARTIDO_DOS_TRABALHADORES_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_13_PARTIDO_DOS_TRABALHADORES.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA.html"
             },
             "04_50_RENATA DA SILVA SOUZA": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_50_RENATA_DA_SILVA_SOUZA_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_50_RENATA_DA_SILVA_SOUZA_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_50_RENATA_DA_SILVA_SOUZA.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA.html"
             },
             "05_50_FLAVIO ALVES SERAFINI": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_ABSOLUTA_50_FLAVIO_ALVES_SERAFINI_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_ABSOLUTA_50_FLAVIO_ALVES_SERAFINI_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_ABSOLUTA_50_FLAVIO_ALVES_SERAFINI.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_ABSOLUTA.html"
             }
         },
         "relativa": {
             "01_96_VOTO NULO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_01_96_VOTO_NULO_RELATIVA.html"
             },
             "02_95_VOTO BRANCO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_02_95_VOTO_BRANCO_RELATIVA.html"
             },
             "03_13_Partido dos Trabalhadores": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_13_PARTIDO_DOS_TRABALHADORES_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_13_PARTIDO_DOS_TRABALHADORES_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_13_PARTIDO_DOS_TRABALHADORES.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_03_13_PARTIDO_DOS_TRABALHADORES_RELATIVA.html"
             },
             "04_50_RENATA DA SILVA SOUZA": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_RELATIVA_50_RENATA_DA_SILVA_SOUZA_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_RELATIVA_50_RENATA_DA_SILVA_SOUZA_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_RELATIVA_50_RENATA_DA_SILVA_SOUZA.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_04_50_RENATA_DA_SILVA_SOUZA_RELATIVA.html"
             },
             "05_50_FLAVIO ALVES SERAFINI": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_RELATIVA_50_FLAVIO_ALVES_SERAFINI_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_RELATIVA_50_FLAVIO_ALVES_SERAFINI_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_RELATIVA_50_FLAVIO_ALVES_SERAFINI.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_ESTADUAL_05_50_FLAVIO_ALVES_SERAFINI_RELATIVA.html"
             }
         }
     },
@@ -79,75 +89,85 @@
         "absoluta": {
             "01_96_VOTO NULO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_ABSOLUTA.html"
             },
             "02_95_VOTO BRANCO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_ABSOLUTA.html"
             },
             "03_50_MARCELO RIBEIRO FREIXO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_ABSOLUTA_50_MARCELO_RIBEIRO_FREIXO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_ABSOLUTA_50_MARCELO_RIBEIRO_FREIXO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_ABSOLUTA_50_MARCELO_RIBEIRO_FREIXO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_ABSOLUTA.html"
             },
             "04_40_ALESSANDRO LUCCIOLA MOLON": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_ABSOLUTA_40_ALESSANDRO_LUCCIOLA_MOLON_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_ABSOLUTA_40_ALESSANDRO_LUCCIOLA_MOLON_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_ABSOLUTA_40_ALESSANDRO_LUCCIOLA_MOLON.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_ABSOLUTA.html"
             },
             "05_50_TALIRIA PETRONE SOARES": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_ABSOLUTA_50_TALIRIA_PETRONE_SOARES_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_ABSOLUTA_50_TALIRIA_PETRONE_SOARES_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_ABSOLUTA_50_TALIRIA_PETRONE_SOARES.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_ABSOLUTA.html"
             }
         },
         "relativa": {
             "01_96_VOTO NULO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_01_96_VOTO_NULO_RELATIVA.html"
             },
             "02_95_VOTO BRANCO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_02_95_VOTO_BRANCO_RELATIVA.html"
             },
             "03_50_MARCELO RIBEIRO FREIXO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_RELATIVA_50_MARCELO_RIBEIRO_FREIXO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_RELATIVA_50_MARCELO_RIBEIRO_FREIXO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_RELATIVA_50_MARCELO_RIBEIRO_FREIXO.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_03_50_MARCELO_RIBEIRO_FREIXO_RELATIVA.html"
             },
             "04_40_ALESSANDRO LUCCIOLA MOLON": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_RELATIVA_40_ALESSANDRO_LUCCIOLA_MOLON_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_RELATIVA_40_ALESSANDRO_LUCCIOLA_MOLON_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_RELATIVA_40_ALESSANDRO_LUCCIOLA_MOLON.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_04_40_ALESSANDRO_LUCCIOLA_MOLON_RELATIVA.html"
             },
             "05_50_TALIRIA PETRONE SOARES": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_RELATIVA_50_TALIRIA_PETRONE_SOARES_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_RELATIVA_50_TALIRIA_PETRONE_SOARES_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_RELATIVA_50_TALIRIA_PETRONE_SOARES.html"
+                "tabela": "/epp/assets/html//tables/RJ_DEPUTADO_FEDERAL_05_50_TALIRIA_PETRONE_SOARES_RELATIVA.html"
             }
         }
     },
@@ -155,61 +175,69 @@
         "absoluta": {
             "01_96_VOTO NULO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_01_96_VOTO_NULO_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_01_96_VOTO_NULO_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_GOVERNADOR_01_96_VOTO_NULO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO.html"
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_01_96_VOTO_NULO_ABSOLUTA.html"
             },
             "02_50_TARCISIO MOTTA DE CARVALHO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_50_TARCISIO_MOTTA_DE_CARVALHO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_50_TARCISIO_MOTTA_DE_CARVALHO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_50_TARCISIO_MOTTA_DE_CARVALHO.html"
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA.html"
             },
             "03_95_VOTO BRANCO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_03_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_03_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_03_95_VOTO_BRANCO_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_03_95_VOTO_BRANCO_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_GOVERNADOR_03_95_VOTO_BRANCO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_03_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO.html"
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_03_95_VOTO_BRANCO_ABSOLUTA.html"
             },
             "04_13_MARCIA ANGELITA TIBURI": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_ABSOLUTA_13_MARCIA_ANGELITA_TIBURI_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_ABSOLUTA_13_MARCIA_ANGELITA_TIBURI_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_ABSOLUTA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_ABSOLUTA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_ABSOLUTA_13_MARCIA_ANGELITA_TIBURI.html"
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_ABSOLUTA.html"
             }
         },
         "relativa": {
             "01_96_VOTO NULO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_01_96_VOTO_NULO_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_01_96_VOTO_NULO_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_GOVERNADOR_01_96_VOTO_NULO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO.html"
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_01_96_VOTO_NULO_RELATIVA.html"
             },
             "02_50_TARCISIO MOTTA DE CARVALHO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_50_TARCISIO_MOTTA_DE_CARVALHO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_50_TARCISIO_MOTTA_DE_CARVALHO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_50_TARCISIO_MOTTA_DE_CARVALHO.html"
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_02_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA.html"
             },
             "03_95_VOTO BRANCO": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_03_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_03_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_03_95_VOTO_BRANCO_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_03_95_VOTO_BRANCO_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_GOVERNADOR_03_95_VOTO_BRANCO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_03_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO.html"
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_03_95_VOTO_BRANCO_RELATIVA.html"
             },
             "04_13_MARCIA ANGELITA TIBURI": {
                 "mapas": {
-                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_RELATIVA_13_MARCIA_ANGELITA_TIBURI_2014.html",
-                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_RELATIVA_13_MARCIA_ANGELITA_TIBURI_2018.html"
+                    "2014": "/epp/assets/html//maps/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_RELATIVA_2014.html",
+                    "2018": "/epp/assets/html//maps/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_RELATIVA_2018.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_RELATIVA_13_MARCIA_ANGELITA_TIBURI.html"
+                "tabela": "/epp/assets/html//tables/RJ_GOVERNADOR_04_13_MARCIA_ANGELITA_TIBURI_RELATIVA.html"
             }
         }
     },
@@ -217,75 +245,85 @@
         "absoluta": {
             "01_96_VOTO NULO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_01_96_VOTO_NULO_ABSOLUTA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_01_96_VOTO_NULO_ABSOLUTA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_PREFEITO_01_96_VOTO_NULO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO.html"
+                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_01_96_VOTO_NULO_ABSOLUTA.html"
             },
             "02_95_VOTO BRANCO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_02_95_VOTO_BRANCO_ABSOLUTA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_02_95_VOTO_BRANCO_ABSOLUTA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_PREFEITO_02_95_VOTO_BRANCO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO.html"
+                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_02_95_VOTO_BRANCO_ABSOLUTA.html"
             },
             "03_13_BENEDITA SOUZA DA SILVA": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_ABSOLUTA_13_BENEDITA_SOUZA_DA_SILVA_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_ABSOLUTA_13_BENEDITA_SOUZA_DA_SILVA_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_ABSOLUTA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_ABSOLUTA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_ABSOLUTA_13_BENEDITA_SOUZA_DA_SILVA.html"
+                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_ABSOLUTA.html"
             },
             "04_13_DIMAS DE PAIVA GADELHA JUNIOR": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_ABSOLUTA_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_ABSOLUTA_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_ABSOLUTA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_ABSOLUTA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_ABSOLUTA_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR.html"
+                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_ABSOLUTA.html"
             },
             "05_50_RENATA DA SILVA SOUZA": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_50_RENATA_DA_SILVA_SOUZA_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_50_RENATA_DA_SILVA_SOUZA_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA_50_RENATA_DA_SILVA_SOUZA.html"
+                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_ABSOLUTA.html"
             }
         },
         "relativa": {
             "01_96_VOTO NULO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_01_96_VOTO_NULO_RELATIVA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_01_96_VOTO_NULO_RELATIVA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_PREFEITO_01_96_VOTO_NULO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO.html"
+                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_01_96_VOTO_NULO_RELATIVA.html"
             },
             "02_95_VOTO BRANCO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_02_95_VOTO_BRANCO_RELATIVA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_02_95_VOTO_BRANCO_RELATIVA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_PREFEITO_02_95_VOTO_BRANCO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO.html"
+                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_02_95_VOTO_BRANCO_RELATIVA.html"
             },
             "03_13_BENEDITA SOUZA DA SILVA": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_RELATIVA_13_BENEDITA_SOUZA_DA_SILVA_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_RELATIVA_13_BENEDITA_SOUZA_DA_SILVA_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_RELATIVA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_RELATIVA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_RELATIVA_13_BENEDITA_SOUZA_DA_SILVA.html"
+                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_03_13_BENEDITA_SOUZA_DA_SILVA_RELATIVA.html"
             },
             "04_13_DIMAS DE PAIVA GADELHA JUNIOR": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_RELATIVA_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_RELATIVA_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_RELATIVA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_RELATIVA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_RELATIVA_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR.html"
+                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_04_13_DIMAS_DE_PAIVA_GADELHA_JUNIOR_RELATIVA.html"
             },
             "05_50_RENATA DA SILVA SOUZA": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_RELATIVA_50_RENATA_DA_SILVA_SOUZA_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_RELATIVA_50_RENATA_DA_SILVA_SOUZA_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_RELATIVA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_RELATIVA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_RELATIVA_50_RENATA_DA_SILVA_SOUZA.html"
+                "tabela": "/epp/assets/html//tables/RJ_PREFEITO_05_50_RENATA_DA_SILVA_SOUZA_RELATIVA.html"
             }
         }
     },
@@ -293,75 +331,85 @@
         "absoluta": {
             "01_96_VOTO NULO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_01_96_VOTO_NULO_ABSOLUTA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_01_96_VOTO_NULO_ABSOLUTA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_VEREADOR_01_96_VOTO_NULO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_01_96_VOTO_NULO_ABSOLUTA_96_VOTO_NULO.html"
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_01_96_VOTO_NULO_ABSOLUTA.html"
             },
             "02_95_VOTO BRANCO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_02_95_VOTO_BRANCO_ABSOLUTA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_02_95_VOTO_BRANCO_ABSOLUTA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_VEREADOR_02_95_VOTO_BRANCO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_02_95_VOTO_BRANCO_ABSOLUTA_95_VOTO_BRANCO.html"
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_02_95_VOTO_BRANCO_ABSOLUTA.html"
             },
             "03_50_TARCISIO MOTTA DE CARVALHO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_50_TARCISIO_MOTTA_DE_CARVALHO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_50_TARCISIO_MOTTA_DE_CARVALHO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA_50_TARCISIO_MOTTA_DE_CARVALHO.html"
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_ABSOLUTA.html"
             },
             "04_50_FRANCISCO RODRIGUES DE ALENCAR FILHO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_ABSOLUTA_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_ABSOLUTA_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_ABSOLUTA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_ABSOLUTA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_ABSOLUTA_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO.html"
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_ABSOLUTA.html"
             },
             "05_13_Partido dos Trabalhadores": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_13_PARTIDO_DOS_TRABALHADORES_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_13_PARTIDO_DOS_TRABALHADORES_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA_13_PARTIDO_DOS_TRABALHADORES.html"
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_ABSOLUTA.html"
             }
         },
         "relativa": {
             "01_96_VOTO NULO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_01_96_VOTO_NULO_RELATIVA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_01_96_VOTO_NULO_RELATIVA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_VEREADOR_01_96_VOTO_NULO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_01_96_VOTO_NULO_RELATIVA_96_VOTO_NULO.html"
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_01_96_VOTO_NULO_RELATIVA.html"
             },
             "02_95_VOTO BRANCO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_02_95_VOTO_BRANCO_RELATIVA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_02_95_VOTO_BRANCO_RELATIVA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_VEREADOR_02_95_VOTO_BRANCO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_02_95_VOTO_BRANCO_RELATIVA_95_VOTO_BRANCO.html"
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_02_95_VOTO_BRANCO_RELATIVA.html"
             },
             "03_50_TARCISIO MOTTA DE CARVALHO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_50_TARCISIO_MOTTA_DE_CARVALHO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_50_TARCISIO_MOTTA_DE_CARVALHO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA_50_TARCISIO_MOTTA_DE_CARVALHO.html"
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_03_50_TARCISIO_MOTTA_DE_CARVALHO_RELATIVA.html"
             },
             "04_50_FRANCISCO RODRIGUES DE ALENCAR FILHO": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_RELATIVA_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_RELATIVA_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_RELATIVA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_RELATIVA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_RELATIVA_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO.html"
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_04_50_FRANCISCO_RODRIGUES_DE_ALENCAR_FILHO_RELATIVA.html"
             },
             "05_13_Partido dos Trabalhadores": {
                 "mapas": {
-                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_13_PARTIDO_DOS_TRABALHADORES_2016.html",
-                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_13_PARTIDO_DOS_TRABALHADORES_2020.html"
+                    "2016": "/epp/assets/html//maps/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_2016.html",
+                    "2020": "/epp/assets/html//maps/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_2020.html",
+                    "Variacao": "/epp/assets/html//maps/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_Variacao.html"
                 },
-                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_RELATIVA_13_PARTIDO_DOS_TRABALHADORES.html"
+                "tabela": "/epp/assets/html//tables/RJ_VEREADOR_05_13_PARTIDO_DOS_TRABALHADORES_RELATIVA.html"
             }
         }
     }
